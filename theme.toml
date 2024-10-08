@@ -1,5 +1,5 @@
 [theme]
-inherit = "basic"
+inherit = "none"
 stylesheets = []
 sidebars = []
 # Style names from https://pygments.org/styles/
