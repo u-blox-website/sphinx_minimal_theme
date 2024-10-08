@@ -1,2 +1,7 @@
+[project]
+name = "minimal theme"
+description = "a minimal sphinx theme for the documentation"
+requires-python = ">=3.7"
+
 [project.entry-points."sphinx.html_themes"]
 name_of_theme = "minimal_theme"
