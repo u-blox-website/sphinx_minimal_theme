@@ -1,5 +1,5 @@
 [project]
-name = "minimal theme"
+name = "minimal_theme"
 description = "a minimal sphinx theme for the documentation"
 requires-python = ">=3.7"
 
