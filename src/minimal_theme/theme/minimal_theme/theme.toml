@@ -1,9 +1,0 @@
-[theme]
-inherit = "none"
-stylesheets = []
-sidebars = []
-# Style names from https://pygments.org/styles/
-pygments_style = {}
-
-[options]
-variable = "default value"
